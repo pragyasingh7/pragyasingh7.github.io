@@ -1,0 +1,35 @@
+/* css styles */
+
+.publication-card {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 1.5rem;
+    gap: 1.5rem;
+  }
+  
+  .pub-img {
+    flex: 0 0 300px;
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .pub-img img {
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+    margin-top: 30px;
+  }
+  
+  .pub-text {
+    flex: 1;
+  }
+  
+  .pub-links {
+    margin-top: 10px;
+    font-size: 0.95rem;
+    text-align: center;
+  }
+  

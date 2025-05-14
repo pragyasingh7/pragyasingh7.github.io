@@ -1,0 +1,69 @@
+---
+title: "Publications"
+format:
+    html:
+        page-layout: full
+---
+
+<div class="publication-card">
+<div class="pub-img">
+  <img src="images/prime2024.png">
+  <p class="pub-links">
+  <a href="https://arxiv.org/abs/2411.02525" target="_blank">Paper</a> |
+  <a href="https://github.com/basiralab/STP-GSR" target="_blank">Code</a>
+  </p>
+</div>
+
+<div class="pub-text">
+  <h4> Strongly Topology-preserving GNNs for Brain Graph Super-resolution
+  </h4>
+  <p>
+<strong>Pragya Singh</strong> and Islem Rekik
+  <br>
+  <em>PRIME-MICCAI 2024</em>
+  </p>
+  <p>
+  Brain graph super-resolution is an under-explored yet highly relevant task in network neuroscience. 
+  It circumvents the need for costly and time-consuming medical imaging data collection, preparation, and processing. 
+  Current super-resolution methods leverage graph neural networks (GNNs) thanks to their ability to natively handle graph-structured datasets. However, most GNNs perform node feature learning, which presents two significant limitations: 
+  (1) they require computationally expensive methods to learn complex node features capable of inferring connectivity strength or edge features, which do not scale to larger graphs; 
+  and (2) computations in the node space fail to adequately capture higher-order brain topologies such as cliques and hubs. 
+  However, numerous studies have shown that brain graph topology is crucial in identifying the onset and presence of various neurodegenerative disorders like Alzheimer’s and Parkinson’s. 
+  Motivated by these challenges and applications, we propose our Strongly Topology-Preserving GNN framework for Brain Graph Super-Resolution (STP-GSR). 
+  It is the first graph super-resolution architecture to perform representation learning in higher-order topological space. 
+  Specifically, using the primal-dual graph formulation from graph theory, we develop an efficient mapping
+  from the edge space of our low-resolution (LR) brain graphs to the node space of a high-resolution (HR) dual graph. 
+  This approach ensures that node-level computations on this dual graph correspond naturally to edge-level learning on our HR brain graphs, 
+  thereby enforcing strong topological consistency within our framework. 
+  Additionally, our framework is GNN layer agnostic and can easily learn from smaller, scalable GNNs, significantly reducing computational requirements. 
+  We comprehensively benchmark our framework across seven key topological measures and observe that it significantly outperforms the previous state-of-the-art methods and baselines.
+  </p>
+</div>
+</div>
+
+<div class="publication-card">
+<div class="pub-img">
+  <img src="images/logml2022_paper.jpg">
+  <p class="pub-links">
+  <a href="https://doi.org/10.1016/j.physletb.2024.138996" target="_blank">Paper</a> |
+  <a href="https://github.com/danielplatt/kreuzer-skarke-ML" target="_blank">Code</a>
+  </p>
+</div>
+
+<div class="pub-text">
+  <h4> Group-invariant machine learning on the Kreuzer-Skarke dataset
+  </h4>
+  <p>
+  Christian Ewert, Sumner Magruder, Vera Maiboroda, Yueyang Shen, <strong>Pragya Singh</strong>, Daniel Platt
+  <br>
+  <em>Physics Letters B</em>
+  </p>
+  <p>
+  We use supervised machine learning to predict Hodge numbers for Calabi-Yau threefolds encoded by reflexive polyhedra. 
+  The Hodge number is invariant to the order of the vertices and the swapping of axes. 
+  Incorporating these properties, i.e. the invariance of column and row permutations for a matrix containing the polyhedron's vertices, promises better performance for Hodge number prediction. 
+  On a medium-sized subset of the Kreuzer-Skarke dataset, we train and evaluate approaches with different degrees of invariance. 
+  Our comparison shows that machine learning models incorporating symmetries actually outperform models that do not, with our best model achieving almost 97% accuracy.
+  </p>
+</div>
+</div>

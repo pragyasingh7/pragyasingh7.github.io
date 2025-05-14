@@ -1,0 +1,29 @@
+---
+title: "Pragya Singh"
+about:
+    template: trestles
+    image: images/profile_pic.jpg
+---
+
+Hi, I am an incoming PhD student at the University of Oxford under the [Intelligent Earth CDT program](https://intelligent-earth.ox.ac.uk/home).
+I am interested in geometric and topological machine learning, especially their application to natural sciences.
+During my PhD, I would like to dive deeper into the intersection of AI and physics, not only to model complex physical processes, but also
+to understand how these models encode phsyical laws (which utlimately may provide insights into improving the modelling aspect). 
+
+### Education
+
+**Imperial College London** | London, UK
+
+MSc in Artificial Intelligence | Sept 2023 - Sept 2024
+
+**IIT Roorkee** | Uttrakhand, India
+
+B.Tech in Engineering Physics | July 2016 - May 2020
+
+### Experience
+
+**Goldman Sachs** | Bengaluru, India
+
+Quantitative Strategist | July 2020 - July 2023
+
+
