@@ -1,17 +1,27 @@
-name: Publish Quarto Website
+name: Publish Quarto Site
 
 on:
   push:
-    branches: [master]
+    branches: [master]  # make sure this matches your default branch
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
     steps:
       - uses: actions/checkout@v3
+
       - uses: quarto-dev/quarto-actions/setup@v2
-      - name: Render site
+        with:
+          version: "latest"
+
+      - name: Render Quarto site
         run: quarto render
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
