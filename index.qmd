@@ -3,6 +3,17 @@ title: "Pragya Singh"
 about:
     template: trestles
     image: images/profile_pic.jpg
+    links:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/pragya-singh7/
+      - icon: github
+        href: https://github.com/pragyasingh7
+      - icon: envelope
+        href: mailto:psingh@ph.iitr.ac.in
+      - text: "{{< fa brands google-scholar >}}"
+        href: https://scholar.google.com/citations?user=QXugGYEAAAAJ&hl=en
+      - text: "{{< fa brands bluesky >}}"
+        href: https://bsky.app/profile/pragya-singh.bsky.social
 ---
 
 Hi, I am an incoming PhD student at the University of Oxford under the [Intelligent Earth CDT program](https://intelligent-earth.ox.ac.uk/home).
