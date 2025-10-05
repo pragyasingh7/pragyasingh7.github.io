@@ -16,25 +16,19 @@ about:
         href: https://bsky.app/profile/pragya-singh.bsky.social
 ---
 
-Hi, I am an incoming PhD student at the University of Oxford under the [Intelligent Earth CDT program](https://intelligent-earth.ox.ac.uk/home).
-I am interested in geometric and topological machine learning, especially their application to natural sciences.
-During my PhD, I would like to dive deeper into the intersection of AI and physics, not only to model complex physical processes, but also
-to understand how these models encode phsyical laws (which utlimately may provide insights into improving the modelling aspect). 
+Hi, I am a first-year PhD student in the [Intelligent Earth CDT](https://intelligent-earth.ox.ac.uk/home) program at the University of Oxford.
+I am broadly interested in applying AI to model complex physical processes, accelerate scientific modeling, and improve model interpretability.
 
-### Education
+#### **Education**
 
-**Imperial College London** | London, UK
+MSc in Artificial Intelligence - Imperial College London
+<span class="duration">Sept 2023 – Sept 2024</span>
 
-MSc in Artificial Intelligence | Sept 2023 - Sept 2024
+B.Tech in Engineering Physics - IIT Roorkee
+<span class="duration">July 2016 – May 2020</span>
 
-**IIT Roorkee** | Uttrakhand, India
+#### **Experience**
 
-B.Tech in Engineering Physics | July 2016 - May 2020
-
-### Experience
-
-**Goldman Sachs** | Bengaluru, India
-
-Quantitative Strategist | July 2020 - July 2023
-
+Quantitative Strategist - Goldman Sachs
+<span class="duration">July 2020 – July 2023</span>
 

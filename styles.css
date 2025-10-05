@@ -32,4 +32,12 @@
     font-size: 0.95rem;
     text-align: center;
   }
-  
+ 
+  .duration {
+    font-size: 0.9em;     
+    font-style: italic;   
+    display: block;       
+    margin-top: 0.1em;   
+    margin-bottom: 1em;   
+    line-height: 1.1;     
+  }
