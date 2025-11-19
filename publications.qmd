@@ -7,6 +7,32 @@ format:
 
 <div class="publication-card">
 <div class="pub-img">
+  <img src="images/bisr_defend.png">
+  <p class="pub-links">
+  <a href="https://arxiv.org/abs/2511.08853" target="_blank">Paper</a> |
+  <a href="https://github.com/basiralab/DEFEND" target="_blank">Code</a>
+  </p>
+</div>
+
+<div class="pub-text">
+  <h4> Rethinking Graph Super-resolution: Dual Frameworks for Topological Fidelity
+  </h4>
+  <p>
+<strong>Pragya Singh</strong> and Islem Rekik
+  <br>
+  <em>ArXiv</em>
+  </p>
+  <p>
+  This work introduces two GNN-agnostic frameworks designed to overcome structural limitations in Graph Super-resolution (GSR). 
+  Bi-SR employs a bipartite graph for structure-aware, permutation-invariant node inference. 
+  DEFEND maps high-resolution (HR) edges to nodes in a dual graph, enabling efficient and expressive edge inference using standard GNNs. 
+  Both frameworks achieved state-of-the-art performance on a real-world brain connectome dataset and twelve new simulated datasets that capture diverse graph topologies and LR-HR relationships.
+  </p>
+</div>
+</div>
+
+<div class="publication-card">
+<div class="pub-img">
   <img src="images/prime2024.png">
   <p class="pub-links">
   <a href="https://arxiv.org/abs/2411.02525" target="_blank">Paper</a> |

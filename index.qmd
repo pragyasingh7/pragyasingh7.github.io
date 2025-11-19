@@ -17,7 +17,8 @@ about:
 ---
 
 Hi, I am a first-year PhD student in the [Intelligent Earth CDT](https://intelligent-earth.ox.ac.uk/home) program at the University of Oxford.
-I am broadly interested in applying AI to model complex physical processes, accelerate scientific modeling, and improve model interpretability.
+My current focus in on AI for materials discovery, especially to tackle environmental challenges. 
+Previously, I worked on geometric machine learning in fields like neurobiology, molecular chemistry, and theoretical physics. 
 
 #### **Education**
 
