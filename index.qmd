@@ -2,7 +2,7 @@
 title: "Pragya Singh"
 about:
     template: trestles
-    image: images/profile_pic.jpg
+    image: images/profile_reuben2.jpg
     links:
       - icon: linkedin
         href: https://www.linkedin.com/in/pragya-singh7/
